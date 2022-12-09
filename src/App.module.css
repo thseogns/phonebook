@@ -1,0 +1,10 @@
+h1 {
+  text-align: center;
+  color: white;
+}
+.App {
+  background-color: skyblue;
+  padding: 100px 0px;
+  border-radius: 20px;
+  box-shadow: 0px 10px 5px rgb(148, 148, 148);
+}
